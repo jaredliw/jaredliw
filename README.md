@@ -1,16 +1,13 @@
-### Hi there 👋
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=jaredliw&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97" alt="stats" align="right" style="margin-bottom: 20px;" />
+</p>
 
-<!--
-**jaredliw/jaredliw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Jared! 👋
 
-Here are some ideas to get you started:
+- 🐍 Python developer (hobbyist)
+- 🏫 High school student in Malaysia
+- 💻 Good at: Kivy app developement, web scraping, data science, algorithms etc.
+- 📫 How to reach me: <a href="mailto:jaredliw@gmail.com">jaredliw@gmail.com</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=jaredliw&theme=flat&&no-bg=true&column=7" alt="trophies" align="center" style="margin: auto;"/>
