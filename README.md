@@ -10,4 +10,4 @@
 - 📫 How to reach me: <a href="mailto:jaredliw@gmail.com">jaredliw@gmail.com</a>
 
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=jaredliw&theme=flat&&no-bg=true&column=7" alt="trophies" align="center" style="margin: auto;"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jaredliw&theme=chalk&column=7&margin-w=30&no-frame=true" alt="trophies" align="center" style="margin: auto;"/>
