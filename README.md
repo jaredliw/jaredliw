@@ -99,8 +99,8 @@
 
 ## 🧱 Contributions & Stats
 <p align="center" margin="10">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jaredliw&show_icons=true&bg_color=2d2d2d&title_color=fff&text_color=fff&icon_color=fed37e&count_private=true&hide_border=true" align="left" style="padding-right:0px;"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredliw&langs_count=10&exclude_repo=robotics-playground&layout=compact&show_icons=true&bg_color=2d2d2d&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true&hide_border=true" height="195"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jaredliw&show_icons=true&bg_color=2d2d2d&title_color=fff&text_color=fff&icon_color=fed37e&count_private=true&hide_border=true" align="left" width="450px" height="200px"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredliw&langs_count=10&exclude_repo=robotics-playground&layout=compact&show_icons=true&bg_color=2d2d2d&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true&hide_border=true" width="350px" height="200px"/></a>
   <br/>
   <br/>
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=jaredliw&bg_color=2d2d2d&color=fed37e&line=F85D7F&point=FFFFFF&hide_border=true"></a>
