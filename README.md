@@ -2,7 +2,7 @@
 
 ## 📝 About Me
 
-🏫 A high school student who is passionate in programming and technologies.
+🏫 A high school student who is passionate in programming, technologies and infosec.
 
 🐍 Python developer.
 
@@ -15,6 +15,7 @@
 <p>
   <a href="https://github.com/jaredliw"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:jaredliw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@jaredliw"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 <p align="center">
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jaredliw&theme=chalk&no-frame=true&count-private=true&margin-w=50"/></a>
