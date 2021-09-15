@@ -25,6 +25,7 @@
 ## 🎇 Highlights
 <p>
   <a href="https://github.com/jaredliw/PyDSA"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaredliw&repo=PyDSA&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+    <a href="https://github.com/jaredliw/PikaBot"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaredliw&repo=PikaBot&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/chefyuan/algorithm-base"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chefyuan&repo=algorithm-base&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/xitu/gold-miner"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xitu&repo=gold-miner&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/jaredliw/python-question-bank"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaredliw&repo=python-question-bank&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
@@ -81,7 +82,7 @@
 | Feb 2021  | Achieved top 60 in IMO national selection test of Malaysia.      |
 | Apr 2021  | Started to learn DSA and Java.                                   |
 | Jun 2021  | Found a severe security flaw in a website.                       |
-| Jul 2021  | Built an Arduino library (C++).                                  |
+| Sept 2021 | Publish Arduino library (C++).                                   |
 <br/>
 
 ## 💡 Recommended Websites for Learning Computer Science
