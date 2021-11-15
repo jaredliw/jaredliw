@@ -15,7 +15,7 @@
 <p>
   <a href="https://github.com/jaredliw"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:jaredliw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://medium.com/@jaredliw"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://juejin.cn/user/167543676602120"><img src="https://img.shields.io/badge/Juejin-white.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAByFBMVEUAAAAegP8fgP8egf8eev8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP8egP////9x6/jYAAAAlnRSTlMAAAAAAAZdWwUQhvTzhA8lq/ypJHH5C3PsBAJO2dghl2AqYZg7yBGIe/itJq96CGrozkMBRdDnaQwDaAfPN7ZwCfaUlnK3OGPeGP4Z8rww4+JeMr3xWt/aUjzHU9tYw+55IKSiHw3vwjYdn/qhCh6eHHfEOsbtdVDg4ddPL7qDhbkuF/cjrJMWbOnR0mtGKLD9JxKK9Ym9ME1eAAAAAWJLR0SX5m4brwAAAAd0SU1FB+UGEgMGHcgXPyMAAAHTSURBVDjLrVNpV1JRFH1bk55AISFPAVEQQXEgFTWQVDBDUsws5yErc8rU5tGZyjFNsvt7PfcBLizAtVqeD3fdu+9+5+6z3zmCcMkBioz3OYqrIjJ8nqtUqa9dT5cE0ORpGdPe0KVhAPl6RqHPT0uQCgoZKyyQUhAAgxECjKYis0neGM6TgOISC8kHrFa6gVhqK05mAGV2plY6YhjgKFcxe1kSA8YKJ8mv1HAMqKqmYpw1xuQUrpu1pL+u3g24Gxpp23TLhUR6j5dejcPNPp9MvU1UAQYPF9TS2uZHInGg/U4g8Rj8HXeDEDpDzFlyj/8kLo11dbGYXKDb5mShTqE8TGjPfbk4Sy938kGfXPDDR8TtVwriwCCBQ8NcCEbsjI3y+uAdGyc4NCEKyGp5TNvJJx5kA0+fTT3n6acrZgicnYvVPf9igbGFl/P8Rlrk69IUIfrlV3GvIL2eJP6b4JW4k2/f0fH9B+nMKXg/mgn6JHcTRMVnOnz5es5JrKyS5vBaLnXVuprq2tj8+3dutUfIobxvuu/kV+TH9j89AdfOLmXe26el9sCVoqfg/rnH5GhscKfsOeDw6Bc9U32cvq2jv09Uf6IZZocGR5GTebQuGL3/iVNGTHdSXGp/KgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNi0xOFQwMzowNjoyOSswMDowMBW0AwoAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDYtMThUMDM6MDY6MjkrMDA6MDBk6bu2AAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC"/></a>
 </p>
 <p align="center">
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jaredliw&theme=chalk&no-frame=true&count-private=true&margin-w=50"/></a>
@@ -82,23 +82,8 @@
 | Feb 2021  | Achieved top 60 in IMO national selection test of Malaysia.      |
 | Apr 2021  | Started to learn DSA and Java.                                   |
 | Jun 2021  | Found a severe security flaw in a website.                       |
-| Sept 2021 | Publish Arduino library (C++).                                   |
-<br/>
-
-## 💡 Recommended Websites for Learning Computer Science
-<p align="center">
-  <a href="https://www.freecodecamp.org/"><img src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white"></a>
-  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"></a>
-  <a href="https://www.hackthebox.eu/"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white"></a>
-  <a href="https://hackerrank.com/"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://www.khanacademy.org/"><img src="https://img.shields.io/badge/-Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"></a>
-  <a href="https://www.leetcode.com/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
-  <a href="https://owasp.org/"><img src="https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white"></a>
-  <a href="https://www.replit.com/"><img src="https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=Replit&logoColor=white"></a>
-  <a href="https://stackexchange.com/"><img src="https://img.shields.io/badge/-Stack%20Exchange-1E5397?style=for-the-badge&logo=Stack%20Exchange&logoColor=white"></a>
-  <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
-  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"></a>
-</p>
+| Aug 2021  | Be an author/translator/proofreader in [juejin.cn](juejin.cn).   |
+| Sept 2021 | Published Arduino library (C++).                                 |
 <br/>
 
 ## 🧱 Contributions & Stats
