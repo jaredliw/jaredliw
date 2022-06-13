@@ -4,9 +4,7 @@
 
 🏫 A high school student who is passionate in programming, technologies and infosec.
 
-🐍 Python developer.
-
-🧰 Good at Kivy desktop application development, web scraping & robotics.
+🐍 Python & Javascript developer.
 
 💻 On track for learning DSA and full stack Java.
 
@@ -20,70 +18,6 @@
 <p align="center">
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jaredliw&theme=chalk&no-frame=true&count-private=true&margin-w=50"/></a>
 </p>
-<br/>
-
-## 🎇 Highlights
-<p>
-  <a href="https://github.com/jaredliw/PyDSA"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaredliw&repo=PyDSA&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-    <a href="https://github.com/jaredliw/PikaBot"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaredliw&repo=PikaBot&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/chefyuan/algorithm-base"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chefyuan&repo=algorithm-base&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/xitu/gold-miner"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xitu&repo=gold-miner&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/jaredliw/python-question-bank"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaredliw&repo=python-question-bank&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/jaredliw/robotics-playground"><img width="318" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jaredliw&repo=robotics-playground&theme=react&bg_color=2d2d2d&title_color=fed37e&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-</p>
-
-<p>
-  <a href="https://github.com/jaredliw?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-<br/>
-
-## 🛠 My Skills and the Tools I Use
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white"></a>
-  <a href="https://www.github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Ajaredliw+is%3Arepo+language%3Abash"><img src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Ajaredliw+is%3Arepo+language%3Ajava"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Ajaredliw+is%3Arepo+language%3Ajavascript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Ajaredliw+is%3Arepo+language%3Ajupyter"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Ajaredliw+is%3Arepo+language%3Amarkdown"><img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-micro%3Abit-00ED00?style=for-the-badge&logo=micro%3Abit&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-MicroPython-2B2728?style=for-the-badge&logo=MicroPython&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-PyPI-3775A9?style=for-the-badge&logo=PyPI&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-PyPy-193440?style=for-the-badge&logo=PyPy&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Ajaredliw+is%3Arepo+language%3Apython"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Tor%20Browser-7D4698?style=for-the-badge&logo=Tor%20Browser&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"></a>
-</p>
-<br/>
-
-## 🌄 Milestones
-| Date      | Description                                                      |
-| --------- | ---------------------------------------------------------------- |
-| Apr 2018  | Got into programming by learning conditionals and loops in C.    |
-| Dec 2018  | Started to learn Python with Tkinter and requests.               |
-| Mac 2019  | Learned desktop application development using Kivy.              |
-| Nov 2019  | Learned Git and joined Github.                                   |
-| Dec 2019  | Achieved gold award in Malaysian Computing Challenge (MCC) 2019. |
-| Sept 2020 | Built a website (participated in a local competition).           |
-| Feb 2021  | Achieved top 60 in IMO national selection test of Malaysia.      |
-| Apr 2021  | Started to learn DSA and Java.                                   |
-| Jun 2021  | Found a severe security flaw in a website.                       |
-| Aug 2021  | Be an author/translator/proofreader in [juejin.cn](juejin.cn).   |
-| Sept 2021 | Published Arduino library (C++).                                 |
 <br/>
 
 ## 🧱 Contributions & Stats
