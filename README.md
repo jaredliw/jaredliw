@@ -2,13 +2,7 @@
 
 ## 📝 About Me
 
-🏫 A high school student who is passionate in programming, technologies and infosec.
-
-🐍 Python & Javascript developer.
-
-💻 On track for learning DSA and full stack Java.
-
-🗺 Johore, Malaysia.
+💻 On track for learning algorithms and AI.
 
 <p>
   <a href="https://github.com/jaredliw"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
